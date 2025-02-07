@@ -17,7 +17,7 @@ This is a simple Linux kernel module that turns two GPIO buttons on a Raspberry 
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gpio-keyboard-driver.git
+git clone https://github.com/galitianu/programmer_keyboard.git
 cd gpio-keyboard-driver
 ```
 
