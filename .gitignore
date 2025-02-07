@@ -1,0 +1,13 @@
+.Module.symvers.cmd
+.modules.order.cmd
+.programmer_keyboard.ko.cmd
+.programmer_keyboard.mod.cmd
+.programmer_keyboard.mod.o.cmd
+.programmer_keyboard.o.cmd
+Module.symvers
+modules.order
+programmer_keyboard.ko
+programmer_keyboard.mod
+programmer_keyboard.mod.c
+programmer_keyboard.mod.o
+programmer_keyboard.o
