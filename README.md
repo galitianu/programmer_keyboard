@@ -28,7 +28,7 @@ make
 
 ### 3. Load the module:
 ```bash
-sudo insmod gpio_keyboard.ko
+sudo insmod programmer_keyboard.ko.ko
 ```
 
 ### 4. Check if the device is registered:
@@ -39,7 +39,7 @@ dmesg | grep -i "Programmer Keyboard"
 ## Unloading the Module
 To remove the module, run:
 ```bash
-sudo rmmod gpio_keyboard
+sudo rmmod programmer_keyboard.ko
 ```
 
 ## License
