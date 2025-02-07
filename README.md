@@ -28,7 +28,7 @@ make
 
 ### 3. Load the module:
 ```bash
-sudo insmod programmer_keyboard.ko.ko
+sudo insmod programmer_keyboard.ko
 ```
 
 ### 4. Check if the device is registered:
