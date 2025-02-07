@@ -33,7 +33,7 @@ sudo insmod gpio_keyboard.ko
 
 ### 4. Check if the device is registered:
 ```bash
-dmesg | grep "GPIO keyboard driver"
+dmesg | grep -i "Programmer Keyboard"
 ```
 
 ## Unloading the Module
